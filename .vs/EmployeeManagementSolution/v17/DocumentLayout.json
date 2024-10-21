@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Migrations\\20241021104339_datatypeschnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Migrations\\20241021104339_datatypeschnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\hp\\desktop\\dot net full stack projects\\employeemanagementsolution\\employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\hp\\desktop\\dot net full stack projects\\employeemanagementsolution\\employeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\hp\\desktop\\dot net full stack projects\\employeemanagementsolution\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\hp\\desktop\\dot net full stack projects\\employeemanagementsolution\\employeemanagement\\contexts\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\contexts\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\hp\\desktop\\dot net full stack projects\\employeemanagementsolution\\employeemanagement\\repositories\\employeerepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\repositories\\employeerepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Migrations\\20241021090158_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Migrations\\20241021090158_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\hp\\desktop\\dot net full stack projects\\employeemanagementsolution\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\hp\\desktop\\dot net full stack projects\\employeemanagementsolution\\employeemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\hp\\desktop\\dot net full stack projects\\employeemanagementsolution\\employeemanagement\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\hp\\desktop\\dot net full stack projects\\employeemanagementsolution\\employeemanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\hp\\desktop\\dot net full stack projects\\employeemanagementsolution\\employeemanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\hp\\desktop\\dot net full stack projects\\employeemanagementsolution\\employeemanagement\\migrations\\20241005070103_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1441DC-E62C-401E-9944-8A866DFFC0DB}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\migrations\\20241005070103_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241021104339_datatypeschnage.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Migrations\\20241021104339_datatypeschnage.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Migrations\\20241021104339_datatypeschnage.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Migrations\\20241021104339_datatypeschnage.cs",
+              "RelativeToolTip": "EmployeeManagement\\Migrations\\20241021104339_datatypeschnage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:43:39.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241021090158_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Migrations\\20241021090158_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Migrations\\20241021090158_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Migrations\\20241021090158_InitialCreate.cs",
+              "RelativeToolTip": "EmployeeManagement\\Migrations\\20241021090158_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:01:58.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:36:12.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepositorie.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Repositories\\EmployeeRepositorie.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Repositories\\EmployeeRepositorie.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Repositories\\EmployeeRepositorie.cs",
+              "RelativeToolTip": "EmployeeManagement\\Repositories\\EmployeeRepositorie.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:16:53.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T07:05:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:55:23.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Contexts\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Contexts\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Contexts\\EmployeeContext.cs",
+              "RelativeToolTip": "EmployeeManagement\\Contexts\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:47:43.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Employee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:44:36.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:58:53.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:12:00.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\WeatherForecast.cs",
+              "RelativeToolTip": "EmployeeManagement\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:40:57.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:37:27.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241005070103_Init.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Migrations\\20241005070103_Init.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Migrations\\20241005070103_Init.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Full Stack Projects\\EmployeeManagementSolution\\EmployeeManagement\\Migrations\\20241005070103_Init.cs",
+              "RelativeToolTip": "EmployeeManagement\\Migrations\\20241005070103_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:01:03.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
